@@ -1,0 +1,8 @@
+{
+  "name": "Touch Rugby DAO: The Future of Sports",
+  "description": "A community-powered revolution turning Touch Rugby into the world's first community-owned, community-governed Olympic sport.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
